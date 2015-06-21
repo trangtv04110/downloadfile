@@ -1,0 +1,23 @@
+{
+  "name": "dlfile",
+  "version": "1.0.0",
+  "description": "Download file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trangtv04110/downloadfile.git"
+  },
+  "author": "TrangTV",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trangtv04110/downloadfile/issues"
+  },
+  "homepage": "https://github.com/trangtv04110/downloadfile#readme",
+  "dependencies": {
+    "progress": "^1.1.8",
+    "request": "^2.58.0"
+  }
+}
